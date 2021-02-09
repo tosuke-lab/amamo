@@ -1551,14 +1551,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-router-config@npm:5.0.1":
-  version: 5.0.1
-  resolution: "@types/react-router-config@npm:5.0.1"
+"@types/react-router-config@npm:5.0.2":
+  version: 5.0.2
+  resolution: "@types/react-router-config@npm:5.0.2"
   dependencies:
     "@types/history": "*"
     "@types/react": "*"
     "@types/react-router": "*"
-  checksum: b5254528fa9c32bdbf72ccb2ce297b59c21e77c0cbf42064b69eb589e307ab18a918558a5984941fc94afce638a1f3b5035168bb00be68b2889f3c55471c147c
+  checksum: d1facc5ac0c8c4d9533f3ba94985ca170b956b6a9a5521d36cb839bb4a4b3316c290036430bd983a75919bbfa52767abfd13191fe64e87f3c96090a8ace1d844
   languageName: node
   linkType: hard
 
@@ -1933,7 +1933,7 @@ __metadata:
     "@types/react": 17.0.0
     "@types/react-dom": 17.0.0
     "@types/react-helmet": 6.1.0
-    "@types/react-router-config": 5.0.1
+    "@types/react-router-config": 5.0.2
     "@types/styled-jsx": 2.2.8
     "@webpack-cli/serve": 1.2.1
     babel-loader: 8.2.2
