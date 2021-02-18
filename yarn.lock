@@ -1945,7 +1945,7 @@ __metadata:
     dotenv-safe: 8.2.0
     dotenv-webpack: 6.0.0
     history: 5.0.0
-    html-webpack-plugin: 4.5.1
+    html-webpack-plugin: 4.5.2
     ky: 0.26.0
     lodash-es: 4.17.20
     mini-css-extract-plugin: 1.3.6
@@ -4449,9 +4449,9 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"html-webpack-plugin@npm:4.5.1":
-  version: 4.5.1
-  resolution: "html-webpack-plugin@npm:4.5.1"
+"html-webpack-plugin@npm:4.5.2":
+  version: 4.5.2
+  resolution: "html-webpack-plugin@npm:4.5.2"
   dependencies:
     "@types/html-minifier-terser": ^5.0.0
     "@types/tapable": ^1.0.5
@@ -4464,7 +4464,7 @@ fsevents@^1.2.7:
     util.promisify: 1.0.0
   peerDependencies:
     webpack: ^4.0.0 || ^5.0.0
-  checksum: 58979a6adb605bb0d0eb489d587eb3b980724dcbe5fb2fdccce7033a13dd46e75d12062bc0ca8943d3598d012717c84df9f250549b728bd07fae244f9d1ecefd
+  checksum: 5896c2ac5c230e148e7de8079bb83cf45c3553d57ff644b921846e2e4241ad9c4ac5baed2737c801e0f1929e95333c3c135a7d471079ea32cdeee056f44eedde
   languageName: node
   linkType: hard
 
