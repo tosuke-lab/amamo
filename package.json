@@ -32,7 +32,7 @@
     "react": "experimental",
     "react-dom": "experimental",
     "react-helmet": "6.1.0",
-    "react-textarea-autosize": "8.3.0",
+    "react-textarea-autosize": "8.3.3",
     "react-virtuoso": "0.20.3",
     "sanitize.css": "12.0.1",
     "styled-jsx": "3.4.1"
