@@ -20,7 +20,7 @@
     "@linkage-community/bottlemail": "3.0.0",
     "clsx": "1.1.1",
     "core-js": "3.8.3",
-    "dayjs": "1.10.3",
+    "dayjs": "1.10.5",
     "history": "5.0.0",
     "ky": "0.26.0",
     "lodash-es": "4.17.20",
