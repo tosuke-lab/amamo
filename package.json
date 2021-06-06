@@ -19,7 +19,7 @@
   "dependencies": {
     "@linkage-community/bottlemail": "3.0.0",
     "clsx": "1.1.1",
-    "core-js": "3.8.3",
+    "core-js": "3.14.0",
     "dayjs": "1.10.3",
     "history": "5.0.0",
     "ky": "0.26.0",
