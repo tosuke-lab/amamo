@@ -1946,7 +1946,7 @@ __metadata:
     dotenv-webpack: 6.0.0
     history: 5.0.0
     html-webpack-plugin: 4.5.1
-    ky: 0.26.0
+    ky: 0.28.5
     lodash-es: 4.17.20
     mini-css-extract-plugin: 1.3.6
     nanoid: 3.1.20
@@ -5264,10 +5264,10 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"ky@npm:0.26.0":
-  version: 0.26.0
-  resolution: "ky@npm:0.26.0"
-  checksum: a1f5c6ead93f33d3e96be5f2c98e07b17b927546267bd36205e84795eb4f079b4dc3bf2beb2ccc072b0badc68c2678d0a54c5a99a4b551a38c99135dc9254705
+"ky@npm:0.28.5":
+  version: 0.28.5
+  resolution: "ky@npm:0.28.5"
+  checksum: f2a430d8f302b912f83f873a2a4520ad3cfeb48f3c0f8a40c7f0d7b2d0eed88e9344bcb878baea6a48a09c6dcd1c14041d9f3180849a2ef92c8ee97ea0b480a1
   languageName: node
   linkType: hard
 
