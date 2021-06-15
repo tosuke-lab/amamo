@@ -51,7 +51,7 @@
     "@types/react-helmet": "6.1.0",
     "@types/react-router-config": "5.0.1",
     "@types/styled-jsx": "2.2.8",
-    "@webpack-cli/serve": "1.2.1",
+    "@webpack-cli/serve": "1.5.1",
     "babel-loader": "8.2.2",
     "css-loader": "5.0.2",
     "css-minimizer-webpack-plugin": "1.2.0",
