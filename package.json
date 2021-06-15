@@ -46,7 +46,7 @@
     "@pmmmwh/react-refresh-webpack-plugin": "0.4.3",
     "@types/lodash-es": "4.17.4",
     "@types/node": "14.14.22",
-    "@types/react": "17.0.0",
+    "@types/react": "17.0.11",
     "@types/react-dom": "17.0.0",
     "@types/react-helmet": "6.1.0",
     "@types/react-router-config": "5.0.1",
